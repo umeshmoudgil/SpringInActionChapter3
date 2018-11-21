@@ -18,10 +18,10 @@ spring:
       server:
         encrypt.enabled: false
         git:
-          uri: https://github.com/carnellj/config-repo/
+          uri: https://github.com/umeshmoudgil/configRepository.git
           searchPaths: licensingservice,organizationservice
-          username: native-cloud-apps
-          password: 0ffended
+          username: umoudgil08@gmail.com
+          password: Welcome2git$
 
 
 ####
